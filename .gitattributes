@@ -1,0 +1,2 @@
+# Preserve the exported notebook bytes and their SHA-256 hashes on every OS.
+notebooks/*.ipynb -text
