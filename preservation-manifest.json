@@ -1,0 +1,18 @@
+[
+  {
+    "name": "EDA-teaching.ipynb",
+    "sha256": "394e4301abe2cdc205a355559a613d08ddaca1b5ee1bdd96fa6e29aae7a474e4"
+  },
+  {
+    "name": "analysis_single-animal.ipynb",
+    "sha256": "597406a134281eb35e1d35e64ec65e4235501ebe04e0fb4c4572d10b2b3acbc4"
+  },
+  {
+    "name": "analysis_multi_animal.ipynb",
+    "sha256": "c019e30795a8a3e948dfe30666121bbf3f8ff98bf03f75b8ed598034d3376e85"
+  },
+  {
+    "name": "prepare-multi-animal-data.ipynb",
+    "sha256": "b6804ae6fa316466142a7b164198fb2e6f4fd3f0eac785de7545ce0199023a60"
+  }
+]
