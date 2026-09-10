@@ -12,3 +12,5 @@ site:
   template: book-theme
   options:
     style: custom.css
+    hide_toc: true
+    hide_footer_links: true

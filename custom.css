@@ -1,29 +1,8 @@
-/* Hide navigation so students cannot browse other solution pages */
+/* Hide the site navigation/sidebar */
 .myst-book-sidebar {
   display: none !important;
 }
 
 nav {
-  display: none !important;
-}
-
-/* Hide sidebar/navigation */
-.myst-book-sidebar {
-  display: none !important;
-}
-
-nav {
-  display: none !important;
-}
-
-/* Hide previous/next cards at bottom */
-footer {
-  display: none !important;
-}
-
-/* Hide MyST pagination */
-[class*="pagination"],
-[class*="prev-next"],
-[class*="prevNext"] {
   display: none !important;
 }
