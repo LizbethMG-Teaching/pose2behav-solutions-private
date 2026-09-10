@@ -4,6 +4,9 @@ project:
   title: "Pose2Behav — Solutions"
   toc:
     - file: index.md
+    - file: lab2-review-eda-000.md
+    - file: lab3-review-track-000.md
+    - file: lab4-noted-social-000.md
 
 site:
   template: book-theme
