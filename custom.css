@@ -1,0 +1,8 @@
+/* Hide navigation so students cannot browse other solution pages */
+.myst-book-sidebar {
+  display: none !important;
+}
+
+nav {
+  display: none !important;
+}
