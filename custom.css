@@ -6,3 +6,10 @@
 nav {
   display: none !important;
 }
+
+/* Hide previous/next page navigation at the bottom */
+.prev-next-area,
+.prev-next-footer,
+nav[aria-label="Page navigation"] {
+  display: none !important;
+}
